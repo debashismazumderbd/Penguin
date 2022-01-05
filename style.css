@@ -1,0 +1,25 @@
+body {
+  font-family: "Bebas Neue", cursive;
+}
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+span {
+  color: #fabe4c;
+}
+.benner {
+  padding-left: 120px;
+}
+.jacket { 
+  border: 0px solid grey;
+  border-radius: 20px;
+  background-color: #f1f1f1;
+}
+.woman {
+  border: 0px solid;
+}
+.woman img {
+    width: 273px; 
+    height: 273px; 
+}
